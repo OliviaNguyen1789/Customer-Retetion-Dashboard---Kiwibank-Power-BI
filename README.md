@@ -67,19 +67,19 @@ This project is designed for stakeholders within the banking and financial servi
 
 | Number | Variable name       | Definition                                                | Data Type |
 | ------ | ------------------- | --------------------------------------------------------- | --------- |
-| 1      | customer_id         | Unique identifier for each customer                       | Text      |
-| 2      | customer_age        | Age of the customer                                       | Text      |
-| 3      | customer_income     | Annual income of the customer                             | Number    |
-| 4      | home_ownership      | Annual income of the customer                             | Text      |
-| 5      | employment_duration | Duration of employment in months                          | Number    |
-| 6      | loan_intent         | Purpose of the loan                                       | Text      |
-| 7      | loan_grade          | Grade assigned to the loan                                | Text      |
-| 8      | loan_amnt           | Loan amount requested                                     | Number    |
-| 9      | loan_int_rate       | Interest rate of the loan                                 | Number    |
-| 10     | term_years          | Loan term in years                                        | Number    |
-| 11     | historical_default  |  Indicates if the customer has a history of default (Y/N) | Text      |
-| 12     | cred_hist_length    |  Length of the customer's credit history in years         | Number    |
-| 13     | Current_loan_status | Current status of the loan (DEFAULT, NO DEFAULT)          | Text      |
+| 1      | Customer_id         | Unique identifier for each customer                       | Number    |
+| 2      | Surname             | Surname of the customer                                   | Text      |
+| 3      | CreditScore         | Annual income of the customer                             | Number    |
+| 4      | Geography           | City of the customer                                      | Text      |
+| 5      | Gender              | Gender of customer                                        | Text      |
+| 6      | Age                 | Age of the custome                                        | Number    |
+| 7      | Tenure              | Tenure of customer in organization                        | Number    |
+| 8      | Balance             | Customers' balance account                                | Number    |
+| 9      | NumberOfProducts    | How many different products a customer holds              | Number    |
+| 10     | Has Credit Card     | Whether a customer owns a credit card                     | Number    |
+| 11     | Is Active Member    | Indicates if the customer is currently active             | Number    |
+| 12     | Estimated Salary    | Annual income of the customer                             | Number    |
+| 13     | Churn               | Churn Flag                                                | Number    |
 
 </details>
 
