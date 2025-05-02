@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/dc4d2538-70a2-4259-868e-cdc46fe74080)
 
+![image](https://github.com/user-attachments/assets/7d1f1cd9-3273-4972-b641-d5ac5a0c3e46)
+
+
 
 # Project Title: Customer Retetion Dashboard - Kiwibank | Power BI
 
