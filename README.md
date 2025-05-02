@@ -63,13 +63,13 @@ This project is designed for stakeholders within the banking and financial servi
 
 ### 🔀 Table schema
 <details>
-<summary>Table: Loan dataset </summary>  
+<summary>Table: Customer Churn of Kiwibank </summary>  
 
 | Number | Variable name       | Definition                                                | Data Type |
 | ------ | ------------------- | --------------------------------------------------------- | --------- |
 | 1      | Customer_id         | Unique identifier for each customer                       | Number    |
 | 2      | Surname             | Surname of the customer                                   | Text      |
-| 3      | CreditScore         | Annual income of the customer                             | Number    |
+| 3      | CreditScore         | Customer’s creditworthiness                               | Number    |
 | 4      | Geography           | City of the customer                                      | Text      |
 | 5      | Gender              | Gender of customer                                        | Text      |
 | 6      | Age                 | Age of the custome                                        | Number    |
