@@ -33,22 +33,14 @@ This project is designed for stakeholders within the banking and financial servi
 - What financial metrics (e.g., account balance, tenure) correlate with higher or lower churn?  
    
 ## 📊 Power BI Visualization
-### Dashboard 1 Preview
 
-![image](https://github.com/user-attachments/assets/d64b663b-04a4-4f31-8d53-a1950cc8f363)
+
+![image](https://github.com/user-attachments/assets/1a702ecc-dd60-4f96-a6f4-10fedf2baace)
+
 
 -🚀 
 
-      
-
-### Dashboard 2 Preview
-
-
-
-- 🚀 **Home Ownership:**
    
-   
-
 
 ## 🔎 Final Conclusion & Recommendations 
 
