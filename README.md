@@ -49,14 +49,14 @@ This project is designed for stakeholders within the banking and financial servi
 - Low-income males (18–45) have the lowest churn – a core retention segment.
 - Female customers and Palmerston North residents show higher churn.
 - 3–4 product users face the highest churn risk.
-- Very high-income customers require tailored retention.
+- Very high-income and very high-balance customers require tailored retention.
 - Good credit = lowest churn; excellent credit = high-value targets.
 - Inactive users (48%) churn at 2x the rate of active users.
 
 **Recommendations:**
 - Reward loyalty for females and excellent credit customers.
 - Offer bundles to 3–4 product holders.
-- Tailor messaging for income extremes.
+- Tailor messaging for income and balance extremes.
 - Re-engage inactive users with targeted campaigns.
 - Focus retention efforts on the 18–45 age group and high-churn regions.
 
