@@ -35,18 +35,32 @@ This project is designed for stakeholders within the banking and financial servi
 ## 📊 Power BI Visualization
 
 ### Dashboard 1 Preview
-
-![image](https://github.com/user-attachments/assets/f50a898a-aba6-4e67-99b2-5e8b03b2d473)
+![image](https://github.com/user-attachments/assets/979aadd6-698b-4f94-b48a-fabac0264c51)
 
 
 ### Dashboard 2 Preview
-![image](https://github.com/user-attachments/assets/600fc374-ecc5-4f35-97f7-66ee21c0588d)
+
+![image](https://github.com/user-attachments/assets/845ada29-f7f7-4131-941b-bc6bcf583324)
 
 
 ## 🔎 Final Conclusion & Recommendations 
 
--🚀 
+ **Key Insights:**
+- Low-income males (18–45) have the lowest churn – a core retention segment.
+- Female customers and Palmerston North residents show higher churn.
+- 3–4 product users face the highest churn risk.
+- Very high-income customers require tailored retention.
+- Good credit = lowest churn; excellent credit = high-value targets.
+- Inactive users (48%) churn at 2x the rate of active users.
 
+**Recommendations:**
+- Reward loyalty for females and excellent credit customers.
+- Offer bundles to 3–4 product holders.
+- Tailor messaging for income extremes.
+- Re-engage inactive users with targeted campaigns.
+- Focus retention efforts on the 18–45 age group and high-churn regions.
+
+By acting on these insights, the business can reduce churn, boost engagement, and strengthen customer loyalty across key segments.
 
 ## 📂 Dataset Description
 
