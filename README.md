@@ -34,16 +34,18 @@ This project is designed for stakeholders within the banking and financial servi
    
 ## 📊 Power BI Visualization
 
+### Dashboard 1 Preview
 
-![image](https://github.com/user-attachments/assets/1a702ecc-dd60-4f96-a6f4-10fedf2baace)
+![image](https://github.com/user-attachments/assets/f50a898a-aba6-4e67-99b2-5e8b03b2d473)
 
 
--🚀 
+### Dashboard 2 Preview
+![image](https://github.com/user-attachments/assets/600fc374-ecc5-4f35-97f7-66ee21c0588d)
 
-   
 
 ## 🔎 Final Conclusion & Recommendations 
 
+-🚀 
 
 
 ## 📂 Dataset Description
